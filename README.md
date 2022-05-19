@@ -9,3 +9,4 @@
 - git push -u origin main-f
 ## Connect you Github repo to netlify for deployment.
 ## Public you connected repo.
+#### https://darling-concha-c29353.netlify.app/
