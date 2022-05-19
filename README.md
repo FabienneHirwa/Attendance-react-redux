@@ -1,5 +1,5 @@
-## Deployment steps
-# Create Github repository 
+# Deployment steps
+## Create Github repository 
 - Upload your local project on Github:
 - git init
 - git add README.md
