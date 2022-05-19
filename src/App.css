@@ -1,5 +1,10 @@
 .App {
-  text-align: center;
+    display: grid;
+    grid-template-columns:  1fr 1fr ;   
+    padding-right: 10px; 
+    width: 800px;
+    position: relative;
+    left: 20%;
 }
 
 .App-logo {
@@ -23,7 +28,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+body{
+  font-family: 'Roboto', sans-serif;
+}
 .App-link {
   color: #61dafb;
 }

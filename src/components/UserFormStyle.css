@@ -1,0 +1,125 @@
+
+.attendanceForm{
+    width: 400px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    margin-left: 25%;
+}
+.attendanceForm1 input{
+    width: 600px;
+    padding: 10px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    background-color: #dddddd;
+    
+}
+.attendanceForm2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.attendanceForm2 input{
+    width: 300px;
+    border-radius: 4px ;
+}
+.attendanceForm1 button{
+    width: 200px;
+}
+
+.nav{
+    background-color: #0a58be;
+    display: grid;
+    padding-left: 20px;
+    grid-template-columns: 3fr 1fr 1fr;
+}
+
+.nav h3{
+    color: yellow;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 60px;
+    text-shadow: 2px 2px #020202;
+}
+.attending{
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color:greenyellow;
+    margin-top: 10px;
+    
+}
+.notAttending{
+    padding-left: 40px;
+    background-color:#D3D3D3;
+    padding-top: 10px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    margin-left: 10px;
+}
+.editButton{
+    padding: 5px 20px 5px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.deleteButton{
+    padding: 5px 20px 5px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    margin-left: 5px;
+    background-color: blue;
+    color: white;
+}
+.submitButton{
+    padding: 5px 20px 5px 20px;
+    border-radius: 2px;
+    width: 600px;
+    outline: none;
+    border: none;
+    background-color: blue;
+    color: white;
+}
+.attendeesCount{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    
+}
+.attendeesCount h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 15px;
+    color: white;
+    text-shadow: 2px 2px #020202;
+}
+.attendeesCount p{
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+    font-weight: bolder;
+    text-shadow: 2px 2px #020202;
+    font-size: 16px;
+}
+.notAttendeesCount{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    
+}
+
+.notAttendeesCount h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    margin-top: 15px;
+    color: white;
+    text-shadow: 2px 2px #020202;
+}
+.notAttendeesCount p{
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+    font-weight: bolder;
+    text-shadow: 2px 2px #020202;
+    font-size: 16px;
+}
