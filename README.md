@@ -8,5 +8,5 @@
 - git remote add origin https://github.com/FabienneHirwa/Attendance-react-redux.git
 - git push -u origin main-f
 ## Connect you Github repo to netlify for deployment.
-## Public you connected repo.
+## Publish your connected repo.
 #### https://darling-concha-c29353.netlify.app/
